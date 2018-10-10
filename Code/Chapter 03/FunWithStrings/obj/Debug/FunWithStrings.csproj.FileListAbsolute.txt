@@ -1,0 +1,5 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\FunWithStrings\bin\Debug\FunWithStrings.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\FunWithStrings\bin\Debug\FunWithStrings.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\FunWithStrings\obj\Debug\FunWithStrings.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\FunWithStrings\obj\Debug\FunWithStrings.pdb

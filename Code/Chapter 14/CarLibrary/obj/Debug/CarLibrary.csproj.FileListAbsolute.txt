@@ -1,0 +1,5 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 14\CarLibrary\bin\Debug\CarLibrary.dll
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 14\CarLibrary\bin\Debug\CarLibrary.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 14\CarLibrary\obj\Debug\CarLibrary.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 14\CarLibrary\obj\Debug\CarLibrary.dll
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 14\CarLibrary\obj\Debug\CarLibrary.pdb

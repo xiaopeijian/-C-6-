@@ -1,0 +1,6 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MySimpleCSharpAPP\MySimpleCSharpAPP\bin\Debug\MySimpleCSharpAPP.exe.config
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MySimpleCSharpAPP\MySimpleCSharpAPP\bin\Debug\MySimpleCSharpAPP.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MySimpleCSharpAPP\MySimpleCSharpAPP\bin\Debug\MySimpleCSharpAPP.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MySimpleCSharpAPP\MySimpleCSharpAPP\obj\Debug\MySimpleCSharpAPP.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MySimpleCSharpAPP\MySimpleCSharpAPP\obj\Debug\MySimpleCSharpAPP.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MySimpleCSharpAPP\MySimpleCSharpAPP\obj\Debug\MySimpleCSharpAPP.pdb

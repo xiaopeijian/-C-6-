@@ -1,0 +1,5 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\ThreadPoolApp\bin\Debug\ThreadPoolApp.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\ThreadPoolApp\obj\x86\Debug\ThreadPoolApp.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\ThreadPoolApp\obj\x86\Debug\ThreadPoolApp.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\ThreadPoolApp\obj\x86\Debug\ThreadPoolApp.pdb

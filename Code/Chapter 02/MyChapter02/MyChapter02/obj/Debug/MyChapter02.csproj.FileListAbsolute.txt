@@ -1,0 +1,8 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\bin\Debug\MyChapter02.exe.config
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\bin\Debug\MyChapter02.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\bin\Debug\MyChapter02.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\obj\Debug\MyChapter02.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\obj\Debug\MyChapter02.Properties.Resources.resources
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\obj\Debug\MyChapter02.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\obj\Debug\MyChapter02.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter02\MyChapter02\obj\Debug\MyChapter02.pdb

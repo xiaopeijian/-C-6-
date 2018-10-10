@@ -1,0 +1,5 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 17\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 17\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 17\ObjectContextApp\obj\x86\Debug\ObjectContextApp.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 17\ObjectContextApp\obj\x86\Debug\ObjectContextApp.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 17\ObjectContextApp\obj\x86\Debug\ObjectContextApp.pdb

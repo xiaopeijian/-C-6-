@@ -1,0 +1,3 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 01\C# and VB Calc Files\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 01\C# and VB Calc Files\Calculator\Calculator\obj\Debug\Calculator.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 01\C# and VB Calc Files\Calculator\Calculator\obj\Debug\Calculator.pdb

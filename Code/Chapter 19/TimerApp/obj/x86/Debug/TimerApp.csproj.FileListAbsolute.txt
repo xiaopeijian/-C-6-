@@ -1,0 +1,5 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\TimerApp\bin\Debug\TimerApp.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\TimerApp\bin\Debug\TimerApp.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\TimerApp\obj\x86\Debug\TimerApp.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\TimerApp\obj\x86\Debug\TimerApp.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\TimerApp\obj\x86\Debug\TimerApp.pdb

@@ -1,0 +1,2 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter2\MyChapter2\bin\Debug\MyChapter2.exe.config
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 02\MyChapter2\MyChapter2\obj\Debug\MyChapter2.csprojResolveAssemblyReference.cache

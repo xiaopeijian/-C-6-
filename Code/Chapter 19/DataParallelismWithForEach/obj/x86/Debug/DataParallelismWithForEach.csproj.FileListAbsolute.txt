@@ -1,0 +1,8 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\bin\Debug\DataParallelismWithForEach.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\obj\x86\Debug\DataParallelismWithForEach.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\obj\x86\Debug\DataParallelismWithForEach.MainForm.resources
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\obj\x86\Debug\DataParallelismWithForEach.Properties.Resources.resources
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\obj\x86\Debug\DataParallelismWithForEach.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\obj\x86\Debug\DataParallelismWithForEach.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 19\DataParallelismWithForEach\obj\x86\Debug\DataParallelismWithForEach.pdb

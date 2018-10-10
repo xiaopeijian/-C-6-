@@ -1,0 +1,6 @@
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MyBasicConsoleIO\MyBasicConsoleIO\bin\Debug\MyBasicConsoleIO.exe.config
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MyBasicConsoleIO\MyBasicConsoleIO\obj\Debug\MyBasicConsoleIO.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MyBasicConsoleIO\MyBasicConsoleIO\bin\Debug\MyBasicConsoleIO.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MyBasicConsoleIO\MyBasicConsoleIO\bin\Debug\MyBasicConsoleIO.pdb
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MyBasicConsoleIO\MyBasicConsoleIO\obj\Debug\MyBasicConsoleIO.exe
+F:\百度云同步盘\我的学习\6、C#\精通C#（第6版）源代码\Code\Chapter 03\My\MyBasicConsoleIO\MyBasicConsoleIO\obj\Debug\MyBasicConsoleIO.pdb
